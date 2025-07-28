@@ -1,0 +1,141 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ADD8E6, #A1C6EA); /* Gradient for a smooth light blue effect */
+    text-align: center;
+    color: #1e293b; /* Adjusted text color for contrast */
+    margin: 0;
+    padding: 0;
+    background-size: cover; /* Ensures the gradient covers the entire screen */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+}
+
+/* Dashboard Container */
+.dashboard {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(51, 65, 85, 0.9); /* Semi-transparent dark background for the card */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    color: white;
+}
+
+/* Dashboard Header */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Card Style */
+.card {
+    background: rgba(71, 85, 105, 0.9); /* Medium-dark background with transparency */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+/* Button Styles */
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2e59d9;
+}
+
+/* Logout Button Style (White Background) */
+button.logout {
+    background-color: white; /* White background */
+    color: #1e293b; /* Dark text color */
+    border: 2px solid #4e73df; /* Blue border */
+    padding: 5px 15px; /* Adjusted padding to make it more compact */
+    font-size: 16px; /* Ensure the text size is consistent */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor to indicate it's clickable */
+    transition: 0.3s; /* Smooth transition for hover effect */
+    width: auto; /* Ensure the button adjusts to the text size */
+}
+
+button.logout:hover {
+    background-color: #f8f9fc; /* Light gray hover background */
+    color: #4e73df; /* Blue text color on hover */
+    border: 2px solid #4e73df; /* Ensure border color matches the text color */
+}
+
+/* Form Elements */
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: none;
+    background-color: #f8f9fc;
+    color: #1e293b;
+}
+
+/* Links Styled as Buttons */
+a {
+    text-decoration: none;
+}
+
+a button {
+    width: 80%;
+    display: block;
+    margin: 5px auto;
+}
+/* Only apply styles to the manage-categories-page */
+.manage-categories-page {
+    text-align: left; /* Align content to the left by default */
+}
+
+.manage-categories-page h1,
+.manage-categories-page h2 {
+    text-align: left;
+}
+
+.manage-categories-page form {
+    text-align: left;
+    margin-left: 0;
+}
+
+.manage-categories-page button {
+    display: inline-block;
+    padding: 10px 15px;
+    border: none;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+    margin: 10px auto; /* Center buttons horizontally */
+}
+
+/* Button hover effect */
+.manage-categories-page button:hover {
+    background-color: #2e59d9;
+}
+.manage-categories-page .go-back-btn {
+    display: block;
+    margin: 20px auto; /* Center the button horizontally */
+    padding: 10px 20px;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    width: auto;
+    font-size: 16px;
+}

@@ -1,0 +1,5 @@
+[2025-07-12T00:08:43.281Z] Applicant: Mohammed Ali | Job: Healthcare Coordinator | Decision: FALSE | Reason: Applicant lacks relevant experience in a clinical setting and required education in Healthcare Administration.
+[2025-07-12T00:10:04.540Z] Applicant: Mohammed Ali | Job: Customer Service Representative | Decision: TRUE | Reason: Applicant has strong communication skills from experience as a Financial Analyst.
+[2025-07-12T00:21:36.428Z] Applicant: Mohammed Ali | Job: Project Coordinator | Decision: FALSE | Reason: Applicant lacks project management experience.
+[2025-07-12T00:21:55.653Z] Applicant: Mohammed Ali | Job: R&D Scientist | Decision: FALSE | Reason: Applicant lacks required MSc and relevant lab research experience.
+[2025-07-12T00:22:53.105Z] Applicant: Mohammed Ali | Job: Legal Assistant | Decision: FALSE | Reason: Applicant lacks relevant education and experience for a Legal Assistant position.

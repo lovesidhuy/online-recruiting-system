@@ -1,0 +1,9 @@
+[2025-07-11 23:56:24] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'R&D Scientist' - AI Screening: Fail
+[2025-07-11 23:56:55] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Data Analyst' - AI Screening: Fail
+[2025-07-11 23:58:20] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Operations Specialist' - AI Screening: Fail
+[2025-07-12 00:08:43] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Healthcare Coordinator' - AI Screening: Fail
+[2025-07-12 00:10:04] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Customer Service Representative' - AI Screening: Pass
+[2025-07-12 00:10:04] EMAIL TO HR: Qualified candidate Applicant (mohammed.ali@ymail.com) for job 'Customer Service Representative'
+[2025-07-12 00:21:36] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Project Coordinator' - AI Screening: Fail
+[2025-07-12 00:21:55] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'R&D Scientist' - AI Screening: Fail
+[2025-07-12 00:22:53] EMAIL TO APPLICANT: Applicant (mohammed.ali@ymail.com) - Application received for 'Legal Assistant' - AI Screening: Fail
