@@ -6,3 +6,4 @@ The Online Recruitment System, built with PHP/MySQL and enhanced by AI-powered c
 
 
 <img width="1440" height="900" alt="Screenshot 2025-07-11 at 5 23 25 PM" src="https://github.com/user-attachments/assets/bcf2b373-7486-4347-b242-cb917693ba4b" />
+<img width="2328" height="538" alt="image" src="https://github.com/user-attachments/assets/a45381ed-39ae-46dc-a69f-e026e04d48ae" />
