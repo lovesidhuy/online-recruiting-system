@@ -30,11 +30,16 @@ A web application for managing job postings, applicants, and the hiring process.
 
 ## Usage
 
+<img width="1440" height="810" alt="Screenshot 2026-01-06 at 2 24 40 PM" src="https://github.com/user-attachments/assets/59f2c593-25a4-44ec-aaac-d47f1476e7f4" />
+
+
+<img width="1440" height="810" alt="Screenshot 2026-01-06 at 2 25 08 PM" src="https://github.com/user-attachments/assets/52312928-1b85-401d-8363-57fd261f1465" />
+
+
 *   Access the application at `http://localhost:8000`.
 
 ## Technologies Used
 
-<img width="1440" height="810" alt="Screenshot 2025-12-17 at 9 55 15 PM" src="https://github.com/user-attachments/assets/1e026fb6-105c-495b-822a-dc220d4b9979" />
 
 
 
