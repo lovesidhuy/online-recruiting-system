@@ -1,0 +1,165 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ADD8E6, #A1C6EA); /* Gradient */
+    text-align: center;
+    color: #1e293b; 
+    margin: 0;
+    padding: 0;
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+
+/* Dashboard Container */
+.dashboard {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(51, 65, 85, 0.9); /* Semi-transparent background */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    color: white;
+}
+
+/* Dashboard Header */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Form Label & Input Styling */
+.card form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.card form input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Submit Button Styling */
+.card form button {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.card form button:hover {
+    background-color: #0056b3;
+}
+
+
+/* Button Styles */
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2e59d9;
+}
+
+/* Logout Button Style */
+button.logout {
+    background-color: white; 
+    color: #1e293b; 
+    border: 2px solid #4e73df; 
+    padding: 5px 15px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: 0.3s; 
+    width: auto; 
+}
+
+button.logout:hover {
+    background-color: #f8f9fc; 
+    color: #4e73df; 
+    border: 2px solid #4e73df; 
+}
+
+
+
+/* Form Elements */
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: none;
+    background-color: #f8f9fc;
+    color: #1e293b;
+}
+
+/* Links Styled as Buttons */
+a {
+    text-decoration: none;
+}
+
+a button {
+    width: 80%;
+    display: block;
+    margin: 5px auto;
+}
+\.manage-categories-page {
+    text-align: left; 
+}
+
+.manage-categories-page h1,
+.manage-categories-page h2 {
+    text-align: left;
+}
+
+.manage-categories-page form {
+    text-align: left;
+    margin-left: 0;
+}
+
+.manage-categories-page button {
+    display: inline-block;
+    padding: 10px 15px;
+    border: none;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+    margin: 10px auto; 
+}
+
+.manage-categories-page button:hover {
+    background-color: #2e59d9;
+}
+.manage-categories-page .go-back-btn {
+    display: block;
+    margin: 20px auto; 
+    padding: 10px 20px;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    width: auto;
+    font-size: 16px;
+}

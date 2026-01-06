@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Secrets / sensitive files
+cookies.txt
+.env
+
+# OS / editor junk
+.DS_Store
+
+
